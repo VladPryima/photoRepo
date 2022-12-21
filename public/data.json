@@ -1,0 +1,175 @@
+{
+  "categories": [
+    { "name": "Все" },
+    { "name": "Море" },
+    { "name": "Горы" },
+    { "name": "Архитектура" },
+    { "name": "Города" }
+  ],
+  "collections": [
+    {
+      "category": 2,
+      "name": "Поход в горы",
+      "photos": [
+        "https://images.unsplash.com/photo-1613310023042-ad79320c00ff?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1612676239016-41e2c92b8e06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1610809027249-86c649feacd5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1621682372775-533449e550ed?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8N3x8bW91bmF0aW5zfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Море (июнь)",
+      "photos": [
+        "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTh8fHNlYSUyMGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1621335223658-0ebd89004d51?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8OXx8c2VhJTIwYWVzdGhldGljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1501436513145-30f24e19fcc8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNlYSUyMGFlc3RoZXRpY3xlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c2VhJTIwYWVzdGhldGljfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Поездка в Европу",
+      "photos": [
+        "https://images.unsplash.com/photo-1610010252747-afeb906e2d55?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8YXJjaGljdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1630335856915-3987afdfdc9a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1609471374271-0d9b03da0998?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1613390792897-aa0c06a52332?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Идеальная архитектура",
+      "photos": [
+        "https://images.unsplash.com/photo-1616578738046-8d6bbb4ee28e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1538378918848-29dbc0910082?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8YXJjaGljdHVyZXxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1614159869126-0f06a742eecb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTl8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1618840739221-e3adb12c9bf1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjJ8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Красивые здания",
+      "photos": [
+        "https://images.unsplash.com/photo-1616578738046-8d6bbb4ee28e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1629774631753-88f827bf6447?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1609618486540-8b210e32fe79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDJ8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1608507777998-7b4f2c269120?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NTB8fGFyY2hpY3R1cmV8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Путешествие по миру",
+      "photos": [
+        "https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTN8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1560840067-ddcaeb7831d2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NDB8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1531219572328-a0171b4448a3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzl8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1573108724029-4c46571d6490?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fGNpdHl8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Путешествие куда-то",
+      "photos": [
+        "https://images.unsplash.com/photo-1488646953014-85cb44e25828?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1507608616759-54f48f0af0ee?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8dHJhdmVsfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1527631746610-bca00a040d60?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60",
+        "https://images.unsplash.com/photo-1501785888041-af3ef285b470?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fHRyYXZlbHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60"
+      ]
+    }
+  ]
+}
+/*
+{ 
+  "categories": [
+    { "name": "Усі" },
+    { "name": "Автомобілі і техніка 1" },
+    { "name": "Природа 2" },
+    { "name": "Мистецтво 3" },
+    { "name": "Спорт 4" }
+  ],
+  "collections": [
+    {
+      "category": 1,
+      "name": "Авто-арти",
+      "photos": [
+        "https://cdn.dribbble.com/userupload/2748402/file/original-c45c9cbd53d6d24e58a4ef82f14c1fcd.jpg?compress=1&resize=752x",
+        "https://cdn.dribbble.com/userupload/4156575/file/original-0ed75f3cbc6da03d622585983c58029e.jpg?compress=1&resize=752x",
+        "https://dribbble.com/shots/8434015-Rabbit/attachments/741920?mode=media",
+        "https://cdn.dribbble.com/users/1399545/screenshots/16067485/media/73a58dcb261c09b52fb78e3f35844886.jpg"
+      ]
+    },
+    {
+      "category": 1,
+      "name": "Швидкі авто",
+      "photos": [
+        "https://cdn.dribbble.com/users/1399545/screenshots/16067485/media/73a58dcb261c09b52fb78e3f35844886.jpg",
+        "https://cdn.dribbble.com/userupload/2748402/file/original-c45c9cbd53d6d24e58a4ef82f14c1fcd.jpg?compress=1&resize=752x",
+        "https://cdn.dribbble.com/userupload/4156575/file/original-0ed75f3cbc6da03d622585983c58029e.jpg?compress=1&resize=752x",
+        "https://cdn.dribbble.com/users/1399545/screenshots/16067485/media/73a58dcb261c09b52fb78e3f35844886.jpg"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Природа",
+      "photos": [
+        "https://cdn.dribbble.com/userupload/3848564/file/original-146d57aa135b7bfc90114b7055639a0f.png?compress=1&resize=752x",
+        "https://cdn.dribbble.com/userupload/3587940/file/original-75ecdeb3d1339d4cd2ffc50d9840ac1f.png?compress=1&resize=752x564",
+        "https://cdn.dribbble.com/userupload/3252779/file/original-1f1376140b043d2da8795d294949e8e9.png?compress=1&resize=752x564",
+        "https://cdn.dribbble.com/userupload/3566718/file/original-de58e6646b8d5f1c4c30cf2d7ce2439e.jpg?compress=1&resize=1024x1024"
+      ]
+    },
+    {
+      "category": 2,
+      "name": "Нічна природа",
+      "photos": [
+        "https://cdn.dribbble.com/userupload/3252779/file/original-1f1376140b043d2da8795d294949e8e9.png?compress=1&resize=752x564",
+        "https://cdn.dribbble.com/userupload/3587940/file/original-75ecdeb3d1339d4cd2ffc50d9840ac1f.png?compress=1&resize=752x564",
+        "https://cdn.dribbble.com/userupload/3252779/file/original-1f1376140b043d2da8795d294949e8e9.png?compress=1&resize=752x564",
+        "https://cdn.dribbble.com/userupload/3566718/file/original-de58e6646b8d5f1c4c30cf2d7ce2439e.jpg?compress=1&resize=1024x1024"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Абстрактне мистецтво",
+      "photos": [
+        "https://cdn.dribbble.com/users/59947/screenshots/16136821/media/6e1553f148d4e8cc9617b7987f9460d1.jpg?compress=1&resize=1600x1200&vertical=top",
+        "https://cdn.dribbble.com/userupload/3821245/file/original-a0c049328a40f9242ff987d25ae40c18.png?compress=1&resize=1024x768",
+        "https://cdn.dribbble.com/userupload/3865530/file/original-0b259445f95c1bd55c28b6dfa7336d4b.jpg?compress=1&resize=400x300&vertical=top",
+        "https://cdn.dribbble.com/userupload/3771391/file/original-0db36e464f1f4dc8da098fdd9d53fb9b.jpg?compress=1&crop=0x0-1296x972&resize=400x300&vertical=top"
+      ]
+    },
+    {
+      "category": 3,
+      "name": "Мистецтво і світ",
+      "photos": [
+        "https://cdn.dribbble.com/userupload/3865530/file/original-0b259445f95c1bd55c28b6dfa7336d4b.jpg?compress=1&resize=400x300&vertical=top",
+        "https://cdn.dribbble.com/users/59947/screenshots/16136821/media/6e1553f148d4e8cc9617b7987f9460d1.jpg?compress=1&resize=1600x1200&vertical=top",
+        "https://cdn.dribbble.com/userupload/3865530/file/original-0b259445f95c1bd55c28b6dfa7336d4b.jpg?compress=1&resize=400x300&vertical=top",
+        "https://cdn.dribbble.com/userupload/3771391/file/original-0db36e464f1f4dc8da098fdd9d53fb9b.jpg?compress=1&crop=0x0-1296x972&resize=400x300&vertical=top"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Тренування",
+      "photos": [
+        "https://cdn.dribbble.com/users/788099/screenshots/17553351/media/3f0210c0f6d80f6bf120a390cb059b79.jpg",
+        "https://cdn.dribbble.com/users/1573719/screenshots/16272329/media/c7e2b5ad08d8105adca863e466ab4847.png",
+        "https://cdn.dribbble.com/userupload/2986932/file/original-5b3d3d92fe875432aef29e8a3619658d.jpg?compress=1&resize=752x",
+        "https://cdn.dribbble.com/userupload/4052777/file/original-9ee72457497d143f19fa0af3daba39d3.png?compress=1&resize=1024x768"
+      ]
+    },
+    {
+      "category": 4,
+      "name": "Путешествие куда-то",
+      "photos": [
+        "https://cdn.dribbble.com/userupload/3279966/file/original-87ad486104cff23716cebb85d6db9112.jpg?compress=1&resize=1024x768",
+        "https://cdn.dribbble.com/users/1573719/screenshots/16272329/media/c7e2b5ad08d8105adca863e466ab4847.png",
+        "https://cdn.dribbble.com/userupload/2986932/file/original-5b3d3d92fe875432aef29e8a3619658d.jpg?compress=1&resize=752x",
+        "https://cdn.dribbble.com/userupload/4052777/file/original-9ee72457497d143f19fa0af3daba39d3.png?compress=1&resize=1024x768"
+      ]
+    }
+
+  ]
+}
+*/
